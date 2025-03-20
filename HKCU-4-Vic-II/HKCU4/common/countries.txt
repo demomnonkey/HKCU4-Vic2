@@ -64,6 +64,9 @@ ZBW        ="countries/Zimbabwe.txt"
 CMS        ="countries/Comoros.txt"
 EQG        ="countries/Equatorial Guinea.txt"
 
+#HKCU4
+NUM		   ="countires/Northumbria.txt"
+
 #Latin America
 
 BAH        = "countries/Bahia.txt"
