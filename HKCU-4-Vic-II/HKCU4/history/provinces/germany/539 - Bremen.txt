@@ -1,5 +1,6 @@
-owner = BRE
-controller = BRE
+owner = PRU
+controller = PRU
+add_core = PRU
 add_core = BRE
 add_core = GER
 trade_goods = fish

@@ -1,5 +1,6 @@
-owner = HAN
-controller = HAN
+owner = NET
+controller = NET
+add_core = NET
 add_core = HAN
 add_core = GER
 trade_goods = fish

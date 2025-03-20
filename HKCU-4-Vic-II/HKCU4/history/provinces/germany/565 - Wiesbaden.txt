@@ -1,5 +1,6 @@
-owner = NAS
-controller = NAS
+owner = RHI
+controller = RHI
+add_core = RHI
 add_core = NAS
 add_core = GER
 trade_goods = sulphur
