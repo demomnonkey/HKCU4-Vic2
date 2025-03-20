@@ -1,4 +1,4 @@
 name = "HKCU4"
-path = "mod/HPM"
-user_dir = "HPM"
+path = "mod/HKCU4"
+user_dir = "HKCU4"
 replace_path = "history/provinces"
