@@ -65,7 +65,7 @@ CMS        ="countries/Comoros.txt"
 EQG        ="countries/Equatorial Guinea.txt"
 
 #HKCU4
-NUM		   ="countires/Northumbria.txt"
+NUM	   ="countries/Northumbria.txt"
 
 #Latin America
 
