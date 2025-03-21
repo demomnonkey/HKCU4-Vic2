@@ -1,5 +1,6 @@
-owner = POR
-controller = POR
+owner = GRA
+controller = GRA
+add_core = GRA
 add_core = POR
 trade_goods = fish
 life_rating = 35

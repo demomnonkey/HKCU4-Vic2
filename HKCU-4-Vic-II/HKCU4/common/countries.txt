@@ -66,6 +66,7 @@ EQG        ="countries/Equatorial Guinea.txt"
 
 #HKCU4
 NUM	   ="countries/Northumbria.txt"
+GRA 	   ="countries/Granada.txt"
 
 #Latin America
 
@@ -364,7 +365,7 @@ LUC        = "countries/Lucca.txt"
 MOD        = "countries/Modena.txt"
 PAP        = "countries/Papal States.txt"
 PAR        = "countries/Parma.txt"
-SAR        = "countries/Sardinia-Piedmont.txt"
+SAR        = "countries/Piedmont.txt"
 SIC        = "countries/Two Sicilies.txt"
 TRE        = "countries/Trieste.txt"
 TUS        = "countries/Tuscany.txt"

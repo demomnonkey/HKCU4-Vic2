@@ -1,5 +1,6 @@
-owner = MOR
-controller = MOR
+owner = MGH
+controller = MGH
+add_core = MGH
 add_core = MOR
 trade_goods = fruit
 life_rating = 31
