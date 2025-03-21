@@ -1,5 +1,6 @@
-owner = TUR
-controller = TUR
+owner = NAB
+controller = NAB
+add_core = NAB
 add_core = TUR
 add_core = ALB
 trade_goods = cattle

@@ -65,8 +65,9 @@ CMS        ="countries/Comoros.txt"
 EQG        ="countries/Equatorial Guinea.txt"
 
 #HKCU4
-NUM	   ="countries/Northumbria.txt"
-GRA 	   ="countries/Granada.txt"
+NUM	   ="countries/Northumbria.txt" 
+GRA 	   ="countries/Granada.txt" 
+NAB	   ="countries/Nabuli.txt" 
 
 #Latin America
 

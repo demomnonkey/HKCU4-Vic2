@@ -1,5 +1,5 @@
-owner = ENG
-controller = ENG
+owner = NUM
+controller = NUM
 add_core = CAN
 trade_goods = grain
 life_rating = 38

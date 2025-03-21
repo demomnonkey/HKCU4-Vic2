@@ -1,5 +1,6 @@
-owner = LUB
-controller = LUB
+owner = SWE
+controller = SWE
+add_core = SWE
 add_core = LUB
 add_core = GER
 trade_goods = fish

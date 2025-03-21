@@ -1,5 +1,6 @@
-owner = MON
-controller = MON
+owner = NAB
+controller = NAB
+add_core = NAB
 add_core = MON
 trade_goods = fruit
 life_rating = 35

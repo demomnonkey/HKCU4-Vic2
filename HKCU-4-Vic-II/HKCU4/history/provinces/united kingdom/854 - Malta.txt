@@ -1,5 +1,6 @@
-owner = ENG
-controller = ENG
+owner = NAB
+controller = NAB
+add_core = NAB
 add_core = MLT
 trade_goods = fish
 life_rating = 32

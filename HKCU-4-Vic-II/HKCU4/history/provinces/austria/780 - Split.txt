@@ -1,5 +1,6 @@
-owner = AUS
-controller = AUS
+owner = NAB
+controller = NAB
+add_core = NAB
 add_core = CRO
 add_core = DLM
 add_core = VEN

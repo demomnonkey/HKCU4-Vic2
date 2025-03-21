@@ -1,5 +1,5 @@
-owner = ENG
-controller = ENG
+owner = NUM
+controller = NUM
 add_core = QUE
 trade_goods = cattle
 life_rating = 38
