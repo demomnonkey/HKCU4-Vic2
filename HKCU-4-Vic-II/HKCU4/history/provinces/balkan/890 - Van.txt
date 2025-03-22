@@ -1,5 +1,6 @@
-owner = BDN
-controller = BDN
+owner = PNT
+controller = PNT
+add_core = PNT
 add_core = TUR
 add_core = BDN
 add_core = ARM

@@ -1,5 +1,6 @@
-owner = BTL
-controller = BTL
+owner = PNT
+controller = PNT
+add_core = PNT
 add_core = TUR
 add_core = ARM
 add_core = BTL

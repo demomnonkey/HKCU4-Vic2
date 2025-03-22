@@ -1,5 +1,6 @@
-owner = ABK
-controller = ABK
+owner = ERA
+controller = ERA
+add_core = ERA
 add_core = ABK
 add_core = CIR
 add_core = GEO

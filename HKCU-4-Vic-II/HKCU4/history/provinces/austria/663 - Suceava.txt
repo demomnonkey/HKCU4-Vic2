@@ -1,5 +1,6 @@
-owner = AUS
-controller = AUS
+owner = BAU
+controller = BAU
+add_core = BAU
 add_core = ROM
 add_core = MOL
 add_core = BKV

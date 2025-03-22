@@ -1,4 +1,14 @@
 Key;English;French;German;Polish;Spanish;Italian;Swedish;Czech;Hungarian;Dutch;Portuguese;Russian;Finnish;
+NUM;Northumbria;;;;;;;;;;;;;
+NUM_ADJ;Northumbrian;;;;;;;;;;;;;
+NAB;Nabuli;;;;;;;;;;;;;
+NAB_ADJ;Nabulian;;;;;;;;;;;;;
+BAU;Baurustana;;;;;;;;;;;;;
+BAU_ADJ;Baurustanan;;;;;;;;;;;;;
+ERA;Eranshuhr;;;;;;;;;;;;;
+ERA;Eranshun
+SAR;Piedmont;;;;;;;;;;;;;
+PLC;Polish-Lithuanian Commonwealth;;;;;;;;;;;;;
 GER_hms_government;The German Empire;;;;;;;;;;;;;
 finnougric;Finno-Ugric;;;;;;;;;;;;;
 ARC_reactionary;Sociedad Popular Restauradora;;;;;;;;;;;;;
@@ -1988,7 +1998,7 @@ RGS_communist;Partido Popular;;;;;;;;;;;;;
 RGS_reactionary;Partido Gaucho;;;;;;;;;;;;;
 RGS_anarcho_liberal;Partido Libertador;;;;;;;;;;;;;
 RGS_fascist;Partido dos Pampas;;;;;;;;;;;;;
-RHI;Rhineland;Rhénanie;Rheinland;;Rhineland;;;;;;;;;
+RHI;Confederation of the Rhine;Rhénanie;Rheinland;;Rhineland;;;;;;;;;
 RHI_ADJ;Rhinelander;Rhénan;Rheinlander;;Rhinelander;;;;;;;;;
 RHI_liberal;Liberaldem. Partei;Liberaldem. Partei;Liberaldem. Partei;;;;;;;;;;;
 RHI_conservative;Zentrumspartei;Zentrumspartei;Zentrumspartei;;;;;;;;;;;

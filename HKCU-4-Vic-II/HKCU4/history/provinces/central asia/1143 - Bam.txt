@@ -1,5 +1,6 @@
-owner = PER
-controller = PER
+owner = ERA
+controller = ERA
+add_core = ERA
 add_core = PER
 add_core = BLC
 trade_goods = cotton

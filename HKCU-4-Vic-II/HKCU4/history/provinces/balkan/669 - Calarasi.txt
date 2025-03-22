@@ -1,5 +1,6 @@
-owner = WAL
-controller = WAL
+owner = BAU
+controller = BAU
+add_core = BAU
 add_core = WAL
 add_core = ROM
 trade_goods = coal

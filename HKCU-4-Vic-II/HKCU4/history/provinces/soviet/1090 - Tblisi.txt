@@ -1,5 +1,6 @@
-owner = TCA
-controller = TCA
+owner = ERA
+controller = ERA
+add_core = ERA
 add_core = GEO
 add_core = TCA
 trade_goods = wool

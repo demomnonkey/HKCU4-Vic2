@@ -68,6 +68,8 @@ EQG        ="countries/Equatorial Guinea.txt"
 NUM	   ="countries/Northumbria.txt" 
 GRA 	   ="countries/Granada.txt" 
 NAB	   ="countries/Nabuli.txt" 
+BAU        ="countries/Baurustana.txt"
+ERA	   ="countries/Eranshahr.txt"
 
 #Latin America
 

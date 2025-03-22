@@ -1,5 +1,5 @@
-owner = USA
-controller = USA
+owner = FRA
+controller = FRA
 add_core = USA
 colonial = 2
 trade_goods = cattle

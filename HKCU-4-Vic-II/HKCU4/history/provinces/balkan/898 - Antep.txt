@@ -1,5 +1,6 @@
-owner = EGY
-controller = EGY
+owner = PNT
+controller = PNT
+add_core = PNT
 add_core = TUR
 add_core = CLC
 add_core = KDS

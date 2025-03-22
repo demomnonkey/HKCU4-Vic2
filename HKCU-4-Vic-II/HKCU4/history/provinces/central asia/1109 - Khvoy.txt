@@ -1,5 +1,6 @@
-owner = MKN
-controller = MKN
+owner = ERA
+controller = ERA
+add_core = ERA
 add_core = PER
 add_core = AZB
 add_core = KDS
