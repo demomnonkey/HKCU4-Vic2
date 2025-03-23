@@ -1,5 +1,6 @@
-owner = RUS
-controller = RUS
+owner = ERA
+controller = ERA
+add_core = ERA
 add_core = CIR
 trade_goods = grain
 life_rating = 35

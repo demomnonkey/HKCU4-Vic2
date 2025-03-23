@@ -1,5 +1,6 @@
-owner = KWT
-controller = KWT
+owner = ERA
+controller = ERA
+add_core = ERA
 add_core = KWT
 add_core = IRQ
 trade_goods = fruit

@@ -1,5 +1,6 @@
-owner = DAG
-controller = DAG
+owner = ERA
+controller = ERA
+add_core = ERA
 add_core = CHY
 trade_goods = grain
 life_rating = 35

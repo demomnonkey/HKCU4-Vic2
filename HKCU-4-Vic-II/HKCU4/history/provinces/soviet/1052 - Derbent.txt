@@ -1,5 +1,6 @@
-owner = DAG
-controller = DAG
+owner = ERA
+controller = ERA
+add_core = ERA
 add_core = DAG
 trade_goods = fruit
 life_rating = 35

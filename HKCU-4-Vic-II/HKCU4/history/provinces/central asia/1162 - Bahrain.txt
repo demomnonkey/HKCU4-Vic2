@@ -1,5 +1,6 @@
-owner = BHR
-controller = BHR
+owner = ERA
+controller = ERA
+add_core = ERA
 add_core = BHR
 trade_goods = fruit
 terrain = semidesert

@@ -1,5 +1,6 @@
-owner = RDL
-controller = RDL
+owner = ERA
+controller = ERA
+add_core = ERA
 add_core = PER
 add_core = RDL
 add_core = KDS
