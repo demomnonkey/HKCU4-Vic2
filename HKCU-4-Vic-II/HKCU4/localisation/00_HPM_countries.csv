@@ -6,8 +6,11 @@ NAB_ADJ;Nabulian;;;;;;;;;;;;;
 BAU;Baurustana;;;;;;;;;;;;;
 BAU_ADJ;Baurustanan;;;;;;;;;;;;;
 ERA;Eranshuhr;;;;;;;;;;;;;
-ERA;Eranshun
+ERA_ADJ;Eranshun;;;;;;;;;;;;;
+GRA;Granada;;;;;;;;;;;;;
+GRA_ADJ;Granadan;;;;;;;;;;;;;
 SAR;Piedmont;;;;;;;;;;;;;
+SAR_ADJ;Piedmontese;;;;;;;;;;;;;
 PLC;Polish-Lithuanian Commonwealth;;;;;;;;;;;;;
 GER_hms_government;The German Empire;;;;;;;;;;;;;
 finnougric;Finno-Ugric;;;;;;;;;;;;;
