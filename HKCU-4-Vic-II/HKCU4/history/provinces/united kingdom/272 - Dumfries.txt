@@ -1,7 +1,6 @@
 owner = NUM
 controller = NUM
 add_core = NUM
-add_core = ENG
 add_core = SCO
 trade_goods = coal
 life_rating = 35

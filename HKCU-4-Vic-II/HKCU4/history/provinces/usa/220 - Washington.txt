@@ -1,8 +1,9 @@
-owner = USA
+owner = CRA
 
-controller = USA
+controller = CRA
 
 add_core = USA
+add_core = CRA
 trade_goods = grain
 life_rating = 35
 fort = 1

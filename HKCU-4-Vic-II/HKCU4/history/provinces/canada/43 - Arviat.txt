@@ -1,5 +1,6 @@
-owner = TEX
-controller = TEX
+owner = LRA
+controller = LRA
+add_core = LRA
 add_core = TEX
 add_core = MEX
 trade_goods = cotton

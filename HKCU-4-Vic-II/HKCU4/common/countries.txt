@@ -70,6 +70,8 @@ GRA 	   ="countries/Granada.txt"
 NAB	   ="countries/Nabuli.txt" 
 BAU        ="countries/Baurustana.txt"
 ERA	   ="countries/Eranshahr.txt"
+CRA	   ="countries/Columbian Republic of America.txt"
+LRA	   ="countries/Louisiana Republic.txt"
 
 #Latin America
 

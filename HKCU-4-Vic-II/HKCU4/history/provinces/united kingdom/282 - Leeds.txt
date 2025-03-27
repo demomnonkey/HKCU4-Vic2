@@ -1,7 +1,6 @@
 owner = NUM
 controller = NUM
 add_core = NUM
-add_core = ENG
 trade_goods = coal
 life_rating = 35
 terrain = mining_district

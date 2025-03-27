@@ -1,6 +1,5 @@
 owner = NUM
 controller = NUM
-add_core = ENG
 add_core = NUM
 add_core = IRE
 trade_goods = cattle

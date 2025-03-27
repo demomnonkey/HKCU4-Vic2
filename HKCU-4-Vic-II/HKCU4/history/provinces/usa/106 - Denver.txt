@@ -1,5 +1,6 @@
-owner = FRA
-controller = FRA
+owner = CRA
+controller = CRA
+add_core = CRA
 add_core = USA
 colonial = 2
 trade_goods = cattle

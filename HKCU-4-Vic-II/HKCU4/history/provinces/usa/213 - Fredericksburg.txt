@@ -1,6 +1,6 @@
-owner = USA
-
-controller = USA
+owner = CRA
+controller = CRA
+add_core = CRA
 add_core = USA
 trade_goods = tobacco
 life_rating = 35
